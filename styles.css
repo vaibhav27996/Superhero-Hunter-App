@@ -1,0 +1,91 @@
+
+#header-style{
+    background-color: #564e4e;
+    height: 4rem;
+}
+
+.name-search{
+    margin-top: 15px;
+}
+
+.box{
+    height: 17rem;
+    width: 21vw;
+    border: 1px solid lightgray;
+    margin: 17px;
+    border-radius: 20px;
+}
+
+img{
+
+    height: 17rem;
+    width: 21vw;
+    border-radius: 20px;
+}
+.bottom-container{
+    width: 98%;
+
+}
+
+
+a:hover{
+    text-decoration:none;
+}
+
+.personalImage{
+    margin-top: 18px;
+    height: 29rem;
+}
+
+.personalContainer{
+    background-color: #022d34;
+    border-radius: 6px;
+    margin-top: 17px;
+    height: 81vh;
+}
+
+.heading{
+    color: white;
+    padding-left: 15px;
+    margin: 16px;
+}
+.para{
+    font-size: 15px;
+}
+
+.rightside{
+    height: 31rem;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+/*Favourites*/
+.favourite-card{
+    width: 18rem;
+    background-color: #564e4e;
+    margin: 10px;
+    border-radius: 15px;
+
+}
+
+.favourite-cardImg{
+    width: 18vw;
+}
+
+.favourite-cardBody{
+    background-color: #ebeaea;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#message{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    color:black;
+}
+
+span img{
+    height: 58px;
+    width: 124px;
+}
